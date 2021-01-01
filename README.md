@@ -1,4 +1,5 @@
-# Getting Started with Dojo Blog
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f116c792-f8c6-4c00-8d1e-14d70603e0f8/deploy-status)](https://app.netlify.com/sites/dojo-blog/deploys)
+# Getting Started with [Dojo Blog](https://dojo-blog.netlify.app/)
 
 This project was a follow along of [Modern React Tutorial](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
