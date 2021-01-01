@@ -3,7 +3,7 @@
 
 This project was a follow along of [Modern React Tutorial](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**LINK to website:** [Dojo Blog](https://dojo-blog.netlify.app/)
+**link to website:** [Dojo Blog](https://dojo-blog.netlify.app/)
 
 
 ## Available Scripts
